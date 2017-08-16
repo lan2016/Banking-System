@@ -1,0 +1,131 @@
+body
+{
+	background-color:white;
+	background-image:url("banking-and-finance1.jpg");
+	opacity:0.8;
+	
+}
+.image1
+{
+	
+	margin-left:250px;
+	margin-top:0px;
+}
+.main1
+{
+	width:1300px;
+	height:500px;
+	opacity:0.4;
+	background-color:pink;
+
+}
+.test p
+{
+	color:red;
+	font-size:20px;
+}
+div.list2 ul{
+	margin-top:100px;
+	margin-left:60px;
+	padding-bottom:20px;
+	width:50px;
+	height:100px;
+	text-decoration:none;
+}
+div.list2 ul li{
+	font-size:20px;
+	text-align:center;
+	background-color:;
+	list-style:none;
+	width:265px;
+	height:30px;
+	line-height:30px;
+	border:1px solid blue;
+	border-radius:100px;
+	
+}
+div.list2 ul a{
+	text-decoration:none;
+	color:red;
+}
+.common
+{
+border:1px solid red;
+width:200px;
+height:200px;
+position:;
+font-size:20px;
+border-radius:100px;
+text-align:center;
+line-height:200px;
+}
+.one
+{
+background-color:red;
+z-index:1;
+margin-top:30px;
+margin-left:400px;
+}
+.two
+{
+background-color:green;
+margin-top:-200px;
+margin-left:700px;
+}
+.three
+{
+background-color:yellow;
+margin-top:10px;
+margin-left:400px;
+}
+.four
+{
+margin-top:-200px;
+margin-left:700px;
+background-color:blue;
+z-index:3;
+}
+.one:hover
+{
+background-color:blue;
+
+}
+.two:hover
+{
+background-color:pink;
+}
+.three:hover
+
+{
+background-color:white;
+}
+.four:hover
+
+{
+background-color:red;
+}
+#main a
+{
+	text-decoration:none;
+	color:black;
+}
+.button ul
+{
+	
+	margin-top:-570px;
+	margin-left:1100px;
+	
+	
+	
+}
+.button ul li
+{
+	width:100px;
+	height:30px;
+	font-size:20px;
+	text-align:center;
+	background-color:green;
+	list-style:none;
+	border:5px solid red;
+	border-radius:100px;
+}
